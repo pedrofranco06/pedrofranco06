@@ -2,7 +2,7 @@
 
 **`Dev Python | Dados & IA`**
 
-Me chamo Pedro Henrique Santos Franco, tenho 20 anos e sou do Rio de Janeiro. Atualmente, estou cursando Ciência da Computação no CEFET/RJ. Gosto de usar Python para trabalhar com dados e inteligência artificial: já construí o "[SABRE](https://github.com/pedrofranco06/sabre)", um agente de IA que pesquisa na web e entrega resumos pelo Discord, e um "[backtest de momentum](https://github.com/pedrofranco06/case-momentum)" com ações da B3 comparado ao Ibovespa.
+Me chamo Pedro Henrique Santos Franco, tenho 20 anos e sou do Rio de Janeiro. Atualmente, estou cursando Ciência da Computação no CEFET/RJ. Gosto de usar Python para trabalhar com dados e inteligência artificial.
 
 <p align="left">
     <a href="https://www.instagram.com/phsantos06_/">
