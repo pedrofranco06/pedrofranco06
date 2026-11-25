@@ -112,15 +112,3 @@ Me chamo Pedro Henrique Santos Franco, tenho 20 anos e sou do Rio de Janeiro. At
     />
   </a>
 </p>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=pedrofranco06&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&custom_title=Estat%C3%ADsticas%20do%20Pedro" 
-  />
-</p>
